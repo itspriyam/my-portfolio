@@ -1,0 +1,32 @@
+.favlink{
+    display: flex;
+    flex-direction: row;
+} 
+.gap{
+    margin-right: 10px;
+}
+#row1{
+    background-color: rgba(12, 12, 12, 0.817);
+}
+#row2{
+    background-color: rgba(26, 25, 25, 0.897);
+}
+#row3{
+    background-color: rgba(12, 12, 12, 0.817);
+    padding: 20px 0;
+}
+#row4{
+    background-color: rgba(26, 25, 25, 0.897);
+    padding: 20px 0;
+}
+.name{
+    color: rgb(191, 255, 0);
+    
+}
+#img:hover {
+    opacity: 75%;
+
+}
+#bt:hover{
+    color: red;
+}
